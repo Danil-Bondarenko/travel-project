@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\TravelProject\TravelProject\bin\Debug\TravelProject.exe.config
+C:\Users\User\source\repos\TravelProject\TravelProject\bin\Debug\TravelProject.exe
+C:\Users\User\source\repos\TravelProject\TravelProject\bin\Debug\TravelProject.pdb
+C:\Users\User\source\repos\TravelProject\TravelProject\obj\Debug\TravelProject.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\TravelProject\TravelProject\obj\Debug\TravelProject.Form1.resources
+C:\Users\User\source\repos\TravelProject\TravelProject\obj\Debug\TravelProject.Properties.Resources.resources
+C:\Users\User\source\repos\TravelProject\TravelProject\obj\Debug\TravelProject.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\TravelProject\TravelProject\obj\Debug\TravelProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TravelProject\TravelProject\obj\Debug\TravelProject.exe
+C:\Users\User\source\repos\TravelProject\TravelProject\obj\Debug\TravelProject.pdb
+C:\Users\User\source\repos\TravelProject\TravelProject\bin\Debug\HtmlAgilityPack.dll
+C:\Users\User\source\repos\TravelProject\TravelProject\bin\Debug\MySql.Data.dll
+C:\Users\User\source\repos\TravelProject\TravelProject\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\User\source\repos\TravelProject\TravelProject\bin\Debug\HtmlAgilityPack.xml
+C:\Users\User\source\repos\TravelProject\TravelProject\bin\Debug\MySql.Data.xml
+C:\Users\User\source\repos\TravelProject\TravelProject\obj\Debug\TravelProject.Reg.resources
+C:\Users\User\source\repos\TravelProject\TravelProject\obj\Debug\TravelProject.MainFunctional.resources
